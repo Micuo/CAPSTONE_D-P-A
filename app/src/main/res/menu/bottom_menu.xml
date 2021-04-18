@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment2"
+        android:title="Home"
+        android:iconTint="#FFFFFF"
+        android:icon="@drawable/ic_home_24" />
+
+    <item
+        android:id="@+id/calendarFragment"
+        android:icon="@drawable/ic_calendar_24"
+        android:iconTint="#FFFFFF"
+        android:title="Calendar" />
+
+    <item
+        android:id="@+id/mapFragment2"
+        android:title="Map"
+        android:iconTint="#FFFFFF"
+        android:icon="@drawable/ic_map_24" />
+</menu>
